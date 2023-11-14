@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="8b9f93c6-133c-4ffa-9064-6820d8c639a9" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/parcialBack/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/parcialBack/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/parcialBack/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/parcialBack/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/parcialBack/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/parcialBack/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/parcialBack/src/main/java/co/edu/javeriana/parcialback/ParcialBackApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/parcialBack/src/main/java/co/edu/javeriana/parcialback/ServletInitializer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/parcialBack/src/main/java/co/edu/javeriana/parcialback/controller/EquipoController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/parcialBack/src/main/java/co/edu/javeriana/parcialback/controller/JugadorController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/parcialBack/src/main/java/co/edu/javeriana/parcialback/model/dto/Equipo583Dto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/parcialBack/src/main/java/co/edu/javeriana/parcialback/model/dto/Jugador583Dto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/parcialBack/src/main/java/co/edu/javeriana/parcialback/model/entities/Equipo583.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/parcialBack/src/main/java/co/edu/javeriana/parcialback/model/entities/Jugador583.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/parcialBack/src/main/java/co/edu/javeriana/parcialback/model/repository/Equipo583Repository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/parcialBack/src/main/java/co/edu/javeriana/parcialback/model/repository/Jugador583Repository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/parcialBack/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/parcialBack/src/test/java/co/edu/javeriana/parcialback/ParcialBackApplicationTests.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/Parcial.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/jarRepositories.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/jpa-buddy.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/parcial/.mvn/wrapper/maven-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/parcial/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/parcial/mvnw" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/parcial/mvnw.cmd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/parcial/parcial.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/parcial/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/parcial/src/main/java/co/edu/javeriana/parcial/ParcialApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/parcial/src/main/java/co/edu/javeriana/parcial/ServletInitializer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/parcial/src/main/java/co/edu/javeriana/parcial/controller/EquipoController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/parcial/src/main/java/co/edu/javeriana/parcial/controller/JugadorController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/parcial/src/main/java/co/edu/javeriana/parcial/model/dto/Equipo583Dto.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/parcial/src/main/java/co/edu/javeriana/parcial/model/dto/Jugador583Dto.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/parcial/src/main/java/co/edu/javeriana/parcial/model/entities/Equipo583.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/parcial/src/main/java/co/edu/javeriana/parcial/model/entities/Jugador583.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/parcial/src/main/java/co/edu/javeriana/parcial/model/repository/Equipo583Repository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/parcial/src/main/java/co/edu/javeriana/parcial/model/repository/Jugador583Repository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/parcial/src/main/resources/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/parcial/src/test/java/co/edu/javeriana/parcial/ParcialApplicationTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/parcial/target/classes/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/parcial/target/classes/co/edu/javeriana/parcial/ParcialApplication.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/parcial/target/classes/co/edu/javeriana/parcial/ServletInitializer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/parcial/target/classes/co/edu/javeriana/parcial/controller/EquipoController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/parcial/target/classes/co/edu/javeriana/parcial/controller/JugadorController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/parcial/target/classes/co/edu/javeriana/parcial/model/dto/Equipo583Dto.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/parcial/target/classes/co/edu/javeriana/parcial/model/dto/Jugador583Dto.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/parcial/target/classes/co/edu/javeriana/parcial/model/entities/Equipo583.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/parcial/target/classes/co/edu/javeriana/parcial/model/entities/Jugador583.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/parcial/target/classes/co/edu/javeriana/parcial/model/repository/Equipo583Repository.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/parcial/target/classes/co/edu/javeriana/parcial/model/repository/Jugador583Repository.class" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "customColor": "",
+  "associatedIndex": 2
+}]]></component>
+  <component name="ProjectId" id="2YBiqhhcnXGl4Iz5Qbvy9PW1Q7L" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "master",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RunManager" selected="npm.Angular CLI Server (parcialFront)">
+    <configuration name="Angular Application (parcialFront)" type="JavascriptDebugType" uri="http://localhost:4200">
+      <method v="2" />
+    </configuration>
+    <configuration name="ParcialBack" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="parcialBack" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="co.edu.javeriana.parcialback.ParcialBackApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Angular CLI Server (parcialFront)" type="js.build_tools.npm">
+      <package-json value="$PROJECT_DIR$/parcialFront/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="start" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="JavaScript Debug.Angular Application (parcialFront)" />
+      <item itemvalue="npm.Angular CLI Server (parcialFront)" />
+      <item itemvalue="Spring Boot.ParcialBack" />
+    </list>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8b9f93c6-133c-4ffa-9064-6820d8c639a9" name="Changes" comment="" />
+      <created>1700005566243</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1700005566243</updated>
+      <workItem from="1700005568795" duration="66000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
