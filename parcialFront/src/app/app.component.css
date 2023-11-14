@@ -1,0 +1,20 @@
+/* Estilo para el contenedor general */
+.container {
+  position: relative;
+}
+
+/* Estilo para el div con la clase "form" */
+.form {
+  position: fixed;
+  top: 50px; /* Ajusta la distancia desde la parte superior según sea necesario */
+  right: 50px; /* Ajusta la distancia desde la derecha según sea necesario */
+  padding: 20px;
+  background-color: #fff; /* Cambia el color de fondo según tus preferencias */
+  border: 1px solid #ccc; /* Agrega un borde para resaltar el formulario */
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); /* Agrega sombra para resaltar el formulario */
+  z-index: 1000; /* Ajusta el índice z para que esté por encima del contenido */
+}
+
+.form * {
+  margin: 3px;
+}
